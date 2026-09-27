@@ -1,0 +1,6 @@
+{
+  "name": "VeritasCheck - Deteksi & Parafrase Plagiarisme Mirip Turnitin",
+  "description": "Aplikasi analisis kemiripan dokumen berstandar Turnitin dengan deteksi sumber plagiasi, laporan keaslian resmi, dan rekomendasi parafrase cerdas untuk menurunkan indeks similaritas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
